@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## Live Demo
 
-Check out the live demo: [Vivek's Portfolio](#) 
+Check out the live demo: [Vivek's Portfolio](https://vivekbiragoni.github.io/css_personal_website/) 
 
 ## Technologies Used
 
