@@ -1,4 +1,4 @@
-# css_personal_website
+# PersonalWebsite
 html+css based portfolio
 # Vivek's Portfolio
 
@@ -27,4 +27,4 @@ These instructions will help you set up a local copy of the project for developm
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/vivekbiragoni/css_personal_website.git
+git clone https://github.com/vivekbiragoni/PersonalWebsite.git
